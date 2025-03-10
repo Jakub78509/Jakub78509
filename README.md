@@ -18,9 +18,9 @@ I’m involved in **geoinformatics and data integration**, focusing on handling 
 - Android development with **Kotlin**  
 - Geospatial data processing  
 - Backend API design
-- 
+  
 ### 📫 How to Reach Me  
-<p align="center">
+<p align="left">
   <a href="mailto:okbost123@gmail.com">
     <img src="https://img.shields.io/badge/Email-%231DA1F2.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
