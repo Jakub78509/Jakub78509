@@ -7,17 +7,15 @@ I’m passionate about **Android app development** and **web development**.
 My favorite programming languages are **Python, Java, and Kotlin**.  
 
 ### 🔭 Currently Working On  
-I’m involved in **geoinformatics and data integration**, focusing on handling and visualizing spatial data.  
+I’m involved in **BE and Android*, development.  
 
 ### 🌱 Currently Learning  
 - Advanced **Android development** (Jetpack, ARCore, Geospatial APIs)  
-- **Backend development** with microservices  
-- **Full-stack web development** with Angular & PostgreSQL  
 
 ### 💬 Ask Me About  
 - Android development with **Kotlin**  
-- Geospatial data processing  
-- Backend API design
+- Backend
+- Frontend
   
 ### 📫 How to Reach Me  
 <p align="left">
