@@ -7,15 +7,7 @@ I’m passionate about **Android app development** and **web development**.
 My favorite programming languages are **Python, Java, and Kotlin**.  
 
 ### 🔭 Currently Working On  
-I’m involved in **BE and Android*, development.  
-
-### 🌱 Currently Learning  
-- Advanced **Android development** (Jetpack, ARCore, Geospatial APIs)  
-
-### 💬 Ask Me About  
-- Android development with **Kotlin**  
-- Backend
-- Frontend
+I’m involved in *BE and Android*, development.  
   
 ### 📫 How to Reach Me  
 <p align="left">
