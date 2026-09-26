@@ -1,24 +1,20 @@
-## Hi there 👋  
+## Hi there 👋
 
-### 🧑‍🎓 About Me  
-Hi, my name is **Jakub**, and I’m from the **Czech Republic**.  
-I’ve been interested in **IT** since I was **15 years old**, when I started studying at a high school focused on **IT**. After that, I continued my studies at **Mendel University**.  
-I’m passionate about **Android app development** and **web development**.  
-My favorite programming languages are **Python, Java, and Kotlin**.  
+I'm **Jakub**, an Android & backend developer from the Czech Republic.
 
-### 🔭 Currently Working On  
-I’m involved in *BE and Android*, development.  
-  
-### 📫 How to Reach Me  
-<p align="left">
-  <a href="mailto:okbost123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%231DA1F2.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jakub-proch%C3%A1zka-1229501b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+I've been into IT since high school and I'm currently pursuing a Master's degree in Applied Informatics.
 
+### Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Micronaut](https://img.shields.io/badge/Micronaut-1C1E21?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### Currently Working On
+- Android app development in Kotlin
+- Backend development with Spring
+
+### 📌 Featured Projects
+- [**Project name**](https://github.com/...) – one sentence about what it does
+- [**Project name**](https://github.com/...) – one sentence about what it does
