@@ -13,4 +13,4 @@ I've been into IT since high school and I'm currently pursuing a Master's degree
 
 ### Currently Working On
 - Android app development in Kotlin
-- Backend development with Spring
+- Backend development in Kotlin
