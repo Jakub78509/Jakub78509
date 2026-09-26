@@ -14,7 +14,3 @@ I've been into IT since high school and I'm currently pursuing a Master's degree
 ### Currently Working On
 - Android app development in Kotlin
 - Backend development with Spring
-
-### 📌 Featured Projects
-- [**Project name**](https://github.com/...) – one sentence about what it does
-- [**Project name**](https://github.com/...) – one sentence about what it does
